@@ -18,7 +18,7 @@ Role: I was responsible for backend and frontend for admin panel and web site in
 
 ### Procare
 Role: I was responsible for backend and frontend for admin panel and web site interface
-* Project Link: [Procare](https://procare.b.alyomhost.net/).
+* Project Link: [Procare](https://procare.b.alyomhost.org/).
 
 ### Property-pr
 Role: I was responsible for backend and frontend for admin panel and web site interface
