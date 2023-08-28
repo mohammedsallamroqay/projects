@@ -37,7 +37,7 @@
 * Project Link: [Wees](https://weesksa.com/).
 
 ### Rasekhon
-*Role: I was responsible for backend foreach admin panel and web site interface.
-*Technologies: Vue.js for admin panel.
+* Role: I was responsible for backend foreach admin panel and web site interface.
+* Technologies: Vue.js for admin panel.
 * Project Link: [Rasekhon](https://hq-competition.roqay.solution/).
 
