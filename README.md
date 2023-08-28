@@ -36,3 +36,8 @@ Role: I was responsible for backend and frontend for admin panel and web site in
 Role: I was responsible for backend and frontend for admin panel and web site interface
 * Project Link: [Wees](https://weesksa.com/).
 
+### Rasekhon
+Role: I was responsible for backend foreach admin panel and web site interface
+Technologies: Vue.js for admin panel
+* Project Link: [Rasekhon](https://hq.competition.roqay.solution/).
+
